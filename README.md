@@ -29,6 +29,8 @@ DevOps majorly consists of following areas-
 
 Git is a distributed version control system used to track changes in source code during software development, enabling multiple developers to collaborate efficiently, manage code history, and maintain different versions of a project.
 
+👉 For complete hand written notes on GIT, please check [Git Notes](./VCS/GIT_CLI.png)
+
 ## GitHub
 
 GitHub is a cloud-based platform that hosts Git repositories and provides tools for version control, collaboration, code review, issue tracking, and continuous integration, enabling teams to develop, manage, and share software projects efficiently.
