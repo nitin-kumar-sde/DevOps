@@ -5,7 +5,7 @@
 ## 📘 Table of Contents
 
 - [🔍 What is DevOps?](#-what-is-devops)
-- [🔩 What does LLD comprise?](#-what-does-devops-comprise)
+- [🔩 What does DevOps comprise?](#-what-does-devops-comprise)
 - [⏳ Version Control System](#-version-control-system)
 
 # 🔍 What is DevOps?
