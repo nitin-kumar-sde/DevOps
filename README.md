@@ -52,11 +52,17 @@ GitHub Actions is a continuous integration and continuous deployment (CI/CD) pla
 Docker lets you run applications in isolated environments, independent of the operating system. So that we don't need to test our application in all kinds of operating systems and runtimes.
 
 🔹 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 
+
 🔹 𝗜𝗺𝗮𝗴𝗲𝘀 & 𝗗𝗼𝗰𝗸𝗲𝗿𝗳𝗶𝗹𝗲𝘀
+
 🔹 𝗗𝗼𝗰𝗸𝗲𝗿 𝗥𝗲𝗽𝗼𝘀i𝘁𝗼𝗿𝗶𝗲𝘀
+
 🔹 𝗗𝗼𝗰𝗸𝗲𝗿 𝗖𝗼𝗺𝗽𝗼𝘀𝗲 
+
 🔹 𝗗𝗼𝗰𝗸𝗲𝗿 𝗡𝗲𝘁𝘄𝗼𝗿𝗸
+
 🔹 𝗗𝗼𝗰𝗸𝗲𝗿 𝗩𝗼𝗹𝘂𝗺𝗲
+
 🔹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀
 
 👉 For complete hand written notes on Docker, please check [Docker Notes](./Docker/Dokcker.png)
