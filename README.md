@@ -20,7 +20,7 @@ DevOps is a set of practices, principles, and cultural philosophies that integra
 DevOps majorly consists of following areas- 
 
 - ⏳ Version Control System
-- 🧾 Containers
+- 📦 Containers
 
 ---
 
@@ -50,6 +50,8 @@ GitHub Actions is a continuous integration and continuous deployment (CI/CD) pla
 # 📦 Docker Containers
 
 Docker lets you run applications in isolated environments, independent of the operating system. So that we don't need to test our application in all kinds of operating systems and runtimes.
+
+Core areas to focus on - 
 
 🔹 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 
 
