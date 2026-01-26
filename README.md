@@ -18,7 +18,7 @@ DevOps is a set of practices, principles, and cultural philosophies that integra
 
 DevOps majorly consists of following areas- 
 
-- 🧱 Version Control System
+- ⏳ Version Control System
 - 🧾 Containers
 
 ---
@@ -35,7 +35,11 @@ Git is a distributed version control system used to track changes in source code
 
 GitHub is a cloud-based platform that hosts Git repositories and provides tools for version control, collaboration, code review, issue tracking, and continuous integration, enabling teams to develop, manage, and share software projects efficiently.
 
+👉 For complete hand written notes on Github, please check [Github Notes](./VCS/GITHUB.jpeg)
+
 ## Github Actions
 
 GitHub Actions is a continuous integration and continuous deployment (CI/CD) platform that allows developers to automate software workflows directly within GitHub repositories, including building, testing, and deploying code in response to events such as commits, pull requests, and releases.
+
+👉 For complete hand written notes on Github Actions, please check [GitHub Actions Notes](./VCS/GIT_ACTIONs.png)
 
