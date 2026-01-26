@@ -65,7 +65,7 @@ Docker lets you run applications in isolated environments, independent of the op
 
 🔹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀
 
-👉 For complete hand written notes on Docker, please check [Docker Notes](./Docker/Dokcker.png)
+👉 For complete hand written notes on Docker, please check [Docker Notes](./Docker)
 
 
 
