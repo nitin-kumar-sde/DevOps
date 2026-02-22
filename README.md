@@ -52,17 +52,11 @@ Docker lets you run applications in isolated environments, independent of the op
 Core areas to focus on - 
 
 🔹 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 
-
 🔹 𝗜𝗺𝗮𝗴𝗲𝘀 & 𝗗𝗼𝗰𝗸𝗲𝗿𝗳𝗶𝗹𝗲𝘀
-
 🔹 𝗗𝗼𝗰𝗸𝗲𝗿 𝗥𝗲𝗽𝗼𝘀i𝘁𝗼𝗿𝗶𝗲𝘀
-
 🔹 𝗗𝗼𝗰𝗸𝗲𝗿 𝗖𝗼𝗺𝗽𝗼𝘀𝗲 
-
 🔹 𝗗𝗼𝗰𝗸𝗲𝗿 𝗡𝗲𝘁𝘄𝗼𝗿𝗸
-
 🔹 𝗗𝗼𝗰𝗸𝗲𝗿 𝗩𝗼𝗹𝘂𝗺𝗲
-
 🔹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀
 
 👉 For complete hand written notes on Docker, please check [Docker Notes](./Docker)
@@ -70,6 +64,24 @@ Core areas to focus on -
 ---
 
 # 🛠️ Infrastructure as Code
+
+Infrastructure as Code (IaC) is the practice of defining and managing infrastructure using code instead of manual processes. Servers, networks, databases, and cloud resources are described in machine-readable configuration files and provisioned automatically.
+
+Terrform is one of the most poplular IaC tool.
+
+Core areas to focus on - 
+
+🔹 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 
+🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿𝘀
+🔹 𝗛𝗮𝘀𝗵𝗶𝗰𝗼𝗿𝗽 𝗖𝗼𝗻𝗳𝗶𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲(𝗛𝗖𝗟)
+🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄(𝘃𝗮𝗹𝗶𝗱𝗮𝘁𝗲, 𝗽𝗹𝗮𝗻 𝗮𝗽𝗽𝗹𝘆)
+🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗦𝘁𝗮𝘁𝗲𝘀
+🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗪𝗼𝗿𝘀𝗽𝗮𝗰𝗲𝘀
+🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 
+🔹 𝗖𝘂𝘀𝘁𝗼𝗺 𝗠𝗼𝗱𝘂𝗹𝗲𝘀
+
+👉 For complete hand written notes on Terraform, please check [Terraform Notes](./IaC)
+
 
 ---
 
