@@ -8,8 +8,8 @@
 - [🔩 What does DevOps comprise?](#-what-does-devops-comprise)
 - [⏳ Version Control System](#-version-control-system)
 - [📦 Docker Containers](#-docker-containers)
-- [🛠️ Infrastructure as Code](#-infrastructure-as-code)
-- [⚙️ Continuous Integration and Continuous Delivery](#-continuous-integration-and-continuous-delivery)
+- [🛠️ Infrastructure as Code](infrastructure-as-code)
+- [⚙️ Continuous Integration and Continuous Delivery](continuous-integration-and-continuous-delivery)
   
 
 # 🔍 What is DevOps?
@@ -66,7 +66,7 @@ Core areas to focus on -
 
 ---
 
-# 🛠️ Infrastructure as Code
+# Infrastructure as Code
 
 Infrastructure as Code (IaC) is the practice of defining and managing infrastructure using code instead of manual processes. Servers, networks, databases, and cloud resources are described in machine-readable configuration files and provisioned automatically.
 
@@ -88,7 +88,7 @@ Core areas to focus on -
 
 ---
 
-# ⚙️ Continuous Integration and Continuous Delivery 
+# Continuous Integration and Continuous Delivery 
 
 ## Github Actions
 
