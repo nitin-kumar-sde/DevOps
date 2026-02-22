@@ -8,6 +8,9 @@
 - [🔩 What does DevOps comprise?](#-what-does-devops-comprise)
 - [⏳ Version Control System](#-version-control-system)
 - [📦 Docker Containers](#-docker-containers)
+- [🛠️ Infrastructure as Code](#-infrastructure-as-code)
+- [⚙️ Continuous Integration and Continuous Delivery](#-continuous-integration-and-continuous-delivery)
+  
 
 # 🔍 What is DevOps?
 
@@ -74,7 +77,7 @@ Core areas to focus on -
 🔹 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 
 🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿𝘀
 🔹 𝗛𝗮𝘀𝗵𝗶𝗰𝗼𝗿𝗽 𝗖𝗼𝗻𝗳𝗶𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲(𝗛𝗖𝗟)
-🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄(𝘃𝗮𝗹𝗶𝗱𝗮𝘁𝗲, 𝗽𝗹𝗮𝗻 𝗮𝗽𝗽𝗹𝘆)
+🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄(𝘃𝗮𝗹𝗶𝗱𝗮𝘁𝗲, 𝗽𝗹𝗮𝗻, 𝗮𝗽𝗽𝗹𝘆)
 🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗦𝘁𝗮𝘁𝗲𝘀
 🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗪𝗼𝗿𝘀𝗽𝗮𝗰𝗲𝘀
 🔹 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 
@@ -92,6 +95,8 @@ Core areas to focus on -
 GitHub Actions is a continuous integration and continuous deployment (CI/CD) platform that allows developers to automate software workflows directly within GitHub repositories, including building, testing, and deploying code in response to events such as commits, pull requests, and releases.
 
 👉 For complete hand written notes on Github Actions, please check [GitHub Actions Notes](./CICD/GIT_ACTIONs.png)
+
+---
 
 # 🧩 GitOps
 
