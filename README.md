@@ -8,6 +8,7 @@
 - [🔩 What does DevOps comprise?](#-what-does-devops-comprise)
 - [⏳ Version Control System](#-version-control-system)
 - [📦 Docker Containers](#-docker-containers)
+- [☸️ Container Orchestration](#-container-orchestration-tools)
 - [🛠️ Infrastructure as Code](#-infrastructure-as-code)
 - [⚙️ Continuous Integration and Continuous Delivery](#-continuous-integration-and-continuous-delivery)
   
@@ -63,6 +64,26 @@ Core areas to focus on -
 🔹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀
 
 👉 For complete hand written notes on Docker, please check [Docker Notes](./Docker)
+
+---
+
+
+# ☸️ Container Orchestration
+
+Container orchestration is the automated management of containerized applications—handling deployment, scaling, networking, and self-healing. Most popular tool for container orchestration Kubernetes.
+
+Core areas to focus in learning K8s - 
+🔹 𝗞𝟴𝘀 𝗖𝗼𝗿𝗲 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀
+🔹 𝗞𝟴𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+🔹 𝗞𝟴𝘀 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴
+🔹 𝗞𝟴𝘀 𝗩𝗼𝗹𝘂𝗺𝗲𝘀
+🔹 𝗞𝟴𝘀 𝗖𝗼𝗻𝗳𝗶𝗴 𝗠𝗮𝗽 𝗮𝗻𝗱 𝘀𝗲𝗰𝗿𝗲𝘁𝘀
+🔹 𝗞𝟴𝘀 𝗔𝘂𝘁𝗼 𝗦𝗰𝗮𝗹𝗶𝗻𝗴
+🔹 𝗞𝟴𝘀 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗠𝗲𝘀𝗵
+🔹 𝗞𝟴𝘀 𝗖𝘂𝘀𝘁𝗼𝗺 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗗𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝗼𝗻
+🔹 𝗛𝗲𝗹𝗺 𝗮𝗻𝗱 𝗛𝗲𝗹𝗺 𝗖𝗵𝗮𝗿𝘁𝘀
+
+👉 For complete hand written notes on Kubernetes, please check [Kubernetes Notes](./K8s)
 
 ---
 
