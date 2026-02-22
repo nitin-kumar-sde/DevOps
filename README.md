@@ -20,7 +20,11 @@ DevOps is a set of practices, principles, and cultural philosophies that integra
 DevOps majorly consists of following areas- 
 
 - ⏳ Version Control System
-- 📦 Containers
+- 🐳 Containers
+- ☸️ Container Orchestration tools
+- 🛠️ Infrastructure as Code
+- ⚙️ Continuous Integration and Continuous Delivery
+- 🚀 GitOps
 
 ---
 
@@ -41,7 +45,7 @@ GitHub is a cloud-based platform that hosts Git repositories and provides tools 
 
 ---
 
-# 📦 Docker Containers
+# 🐳 Docker Containers
 
 Docker lets you run applications in isolated environments, independent of the operating system. So that we don't need to test our application in all kinds of operating systems and runtimes.
 
@@ -63,6 +67,11 @@ Core areas to focus on -
 
 👉 For complete hand written notes on Docker, please check [Docker Notes](./Docker)
 
+---
+
+# 🛠️ Infrastructure as Code
+
+---
 
 # ⚙️ Continuous Integration and Continuous Delivery 
 
@@ -71,4 +80,6 @@ Core areas to focus on -
 GitHub Actions is a continuous integration and continuous deployment (CI/CD) platform that allows developers to automate software workflows directly within GitHub repositories, including building, testing, and deploying code in response to events such as commits, pull requests, and releases.
 
 👉 For complete hand written notes on Github Actions, please check [GitHub Actions Notes](./CICD/GIT_ACTIONs.png)
+
+# 🧩 GitOps
 
