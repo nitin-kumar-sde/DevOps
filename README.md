@@ -117,7 +117,5 @@ GitHub Actions is a continuous integration and continuous deployment (CI/CD) pla
 
 👉 For complete hand written notes on Github Actions, please check [GitHub Actions Notes](./CICD/GIT_ACTIONs.png)
 
----
 
-# 🧩 GitOps
 
